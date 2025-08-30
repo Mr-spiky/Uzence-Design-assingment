@@ -29,5 +29,5 @@ This project contains two reusable UI components built with React, TypeScript, T
 ## 🚀 Setup Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/intership-assignment-ui-components.git
-   cd intership-assignment-ui-components
+   git clone https://github.com/Mr-spiky/Uzence-Design-assingment.git
+   cd intership-assignment
