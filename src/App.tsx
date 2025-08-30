@@ -38,18 +38,18 @@ function App() {
     { key: 'role', title: 'Role', dataIndex: 'role', sortable: true },
     { key: 'status', title: 'Status', dataIndex: 'status', sortable: true },
     {
-      key: 'actions',
-      title: 'Actions',
-      dataIndex: 'status',
-      render: (value, record) => (
-        <button 
-          className="px-3 py-1 bg-blue-500 text-white rounded text-sm hover:bg-blue-600"
-          onClick={() => alert(`Editing ${record.name}`)}
-        >
-          Edit
-        </button>
-      )
-    }
+  key: 'actions',
+  title: 'Actions',
+  dataIndex: 'status',
+  render: (_, record) => ( // ← Use underscore for unused parameter
+    <button 
+      className="px-3 py-1 bg-blue-500 text-white rounded text-sm hover:bg-blue-600"
+      onClick={() => alert(`Editing ${record.name}`)}
+    >
+      Edit
+    </button>
+  )
+}
   ];
 
   return (
