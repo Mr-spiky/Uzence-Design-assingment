@@ -1,4 +1,4 @@
-# Internship Assignment – UI Components (React + TS + Tailwind + Storybook)
+# Uzence Design Internship Assignment – UI Components (React + TS + Tailwind + Storybook)
 
 ## 📌 Overview
 This project contains two reusable UI components built with React, TypeScript, TailwindCSS, and documented using Storybook.
@@ -19,7 +19,7 @@ This project contains two reusable UI components built with React, TypeScript, T
 ---
 
 ## ⚡ Tech Stack
-- React + TypeScript
+- React + Vite + TypeScript
 - TailwindCSS
 - Storybook
 - React Testing Library (basic tests)
