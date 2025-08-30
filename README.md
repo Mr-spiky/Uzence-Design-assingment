@@ -30,8 +30,9 @@ This project contains two reusable UI components built with **React**, **TypeScr
 
 ## 🔗 Storybook Preview Link
 [Vercel Preview](https://uzence-design-assingment.vercel.app/)
-![Project Screenshot](<img width="1920" height="914" alt="Storybook1" src="https://github.com/user-attachments/assets/86562cca-052c-4c42-b474-d8793aaa4481" />
-)
+
+<img src="https://github.com/user-attachments/assets/86562cca-052c-4c42-b474-d8793aaa4481" alt="Project Screenshot" width="800">
+
 
 ## 🚀 Setup Instructions
 Clone the repo:
