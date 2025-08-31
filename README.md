@@ -29,7 +29,7 @@ This project contains two reusable UI components built with **React**, **TypeScr
 - React Testing Library (basic tests)
 
 ## 🔗 Storybook Preview Link
-[Vercel Preview]([https://uzence-design-assingment.vercel.app/](https://uzence-design-assingment-pg3j.vercel.app/?path=/docs/components-datatable--docs))
+[Vercel Preview](https://uzence-design-assingment-pg3j.vercel.app/?path=/docs/components-datatable--docs)
 
 <img src="https://github.com/user-attachments/assets/86562cca-052c-4c42-b474-d8793aaa4481" alt="Project Screenshot" width="800">
 
